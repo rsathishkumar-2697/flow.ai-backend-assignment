@@ -4,7 +4,6 @@
 
 A RESTful API for managing personal finances, tracking income and expenses, and generating financial reports.
 
-Live API: [https://flowwaibackendassignment.onrender.com](https://flowwaibackendassignment.onrender.com)
 
 ## Features
 
