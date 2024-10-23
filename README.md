@@ -58,8 +58,8 @@ The server will start running on `http://localhost:3001` by default. or user can
 ```json
 // Request Body
 {
-    "name": "Sekhar",
-    "password": "Sekhar@123"
+    "name": "Sathish",
+    "password": "Sathish@123"
 }
 
 // Response
@@ -68,9 +68,6 @@ The server will start running on `http://localhost:3001` by default. or user can
     "userId": "3cf4de95-befd-4a93-b08b-6e5d5b5bcdfb"
 }
 ```
-
-#### Screenshot of user registration in Postman
-![image](https://github.com/user-attachments/assets/3b64fde0-f97a-40ef-b753-993bb633d4d4)
 
 
 ### Transactions
